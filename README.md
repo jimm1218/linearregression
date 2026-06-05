@@ -1,7 +1,7 @@
 # 動態線性迴歸與離群值分析模擬器
 **DEMO連結：https://linearregression-5btrp4e5xdoz5vqgslqqbo.streamlit.app/**
 
-<img width="1372" height="723" alt="image" src="https://github.com/user-attachments/assets/3b03239e-12a1-4d2d-af3a-27d24b112397" />
+<img width="1456" height="824" alt="image" src="https://github.com/user-attachments/assets/97a1e607-3ece-49e3-9ec8-32668d560807" />
 
 
 這是一個使用 Streamlit 建立的互動式網頁應用程式，旨在動態模擬線性數據、執行迴歸分析，並即時視覺化結果與離群值。

@@ -1,6 +1,8 @@
 # 動態線性迴歸與離群值分析模擬器
 **DEMO連結：https://linearregression-5btrp4e5xdoz5vqgslqqbo.streamlit.app/**
 
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/1cb9a0ac-12db-4b1d-829c-cc9b756f55e2" />
+
 這是一個使用 Streamlit 建立的互動式網頁應用程式，旨在動態模擬線性數據、執行迴歸分析，並即時視覺化結果與離群值。
 此腳本由 AI 程式碼助理 (Gemini Code Assist) 根據指定需求生成，相關 Prompt 請參考 [`PROMPT.md`](./PROMPT.md)。
 
@@ -55,4 +57,4 @@ python lineregression.py
 --------------------
 ```
 
-<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/1cb9a0ac-12db-4b1d-829c-cc9b756f55e2" />
+

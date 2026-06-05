@@ -54,3 +54,5 @@ python lineregression.py
 ... (表格內容) ...
 --------------------
 ```
+
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/1cb9a0ac-12db-4b1d-829c-cc9b756f55e2" />
